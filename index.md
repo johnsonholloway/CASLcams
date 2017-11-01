@@ -5,7 +5,7 @@ I have designed built and programmed a new cost effective camera system using a 
 
 Here is one of the Raspberry Pi Cameras mounted on a Weather station at the Bald Head Island Consevancy 
 
-<a href="/cam12">Conservancy Cam</a>
+<a href="https://github.com/johnsonholloway/CASLcams/tree/master/cam12">Conservancy Cam</a>
 <br> <img src='/cam12/cam12_09-04-2017_09:30.jpg'>
 
 
