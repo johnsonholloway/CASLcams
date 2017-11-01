@@ -5,6 +5,6 @@ I have designed built and programmed a new cost effective camera system using a 
 
 mounted on a Weather station at the Bald Head Island Consevancy 
 
-<img src='/images/cam12_11-01-2017_1230.jpg'>"
+<a href="/cam12">Conservancy Cam</a>
 
 
