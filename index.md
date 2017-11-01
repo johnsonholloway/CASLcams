@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/johnsonholloway/CASLcams/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## CASL Beach Cams
+I have designed built and programmed a new cost effective camera system using a Raspberry Pi.<br> These new cost effiective cameras are used to take timeplase imagery in hopes of gaining insight into the dynamics of complex coastal processes 
 
 ### Bald Head Island Conservancy Cam
 
@@ -11,14 +8,3 @@ mounted on a Weather station at the Bald Head Island Consevancy
 <img src='/images/cam12_11-01-2017_1230.jpg'>"
 
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnsonholloway/CASLcams/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
