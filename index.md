@@ -4,10 +4,11 @@ I have designed built and programmed a new cost effective camera system using a 
 ### Bald Head Island Conservancy Cam
 
 Here is one of the Raspberry Pi Cameras mounted on a Weather station at the Bald Head Island Consevancy 
-Click the link to select images from a particular day.
-
+<p> <img src='/cam12/cam12_09-04-2017_09:30.jpg'>
+<br>Click the link to select images from a particular day.
+<br>
 <a href="https://github.com/johnsonholloway/CASLcams/tree/master/cam12">Conservancy Cam</a>
 
-<p> <img src='/cam12/cam12_09-04-2017_09:30.jpg'>
+
 
 
